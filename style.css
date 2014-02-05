@@ -1,0 +1,10 @@
+body {
+    font-size:1em;
+        font-family:monospace;
+        font color:white;
+        @font-face:courier new;
+        background-color: #fff;
+        background-size:75%;
+
+    
+}
