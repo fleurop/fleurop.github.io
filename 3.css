@@ -1,0 +1,22 @@
+body {
+    font-size:60%;
+    font-family:"Times New Roman",serif;
+    text-align:left;
+}
+em {
+    font-family:"Times New Roman",cursive;
+   
+}
+h2 {margin-left:100px;
+	margin-top:500px;
+}
+
+em {list-style:none;
+    position:absolute;
+    margin-left:100px;
+}
+
+li { list-style:none;}
+
+
+    

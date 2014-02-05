@@ -1,0 +1,19 @@
+body {
+
+        font-size:1em;
+        font-family:"Courier New",serif;
+        text-align:right;
+        background-image:url(schwarz%20wei%C3%9F.gif);
+        background-size:100%;
+}
+
+li {    list-style:none;
+}
+
+p {  margin-right:250px;
+	
+}
+
+h4 { margin-right:413px;
+    margin-top:40px;
+}
