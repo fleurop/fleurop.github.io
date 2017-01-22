@@ -1,5 +1,18 @@
+head {
+    font-size:50%;
+    font-family:"Times New Roman", serif;
+    text-align:left;
+}
+
+ul;nav { margin-left:0px;
+    font-size:50%;
+    font-family:"Times New Roman",serif;
+    text-align:left;
+} 
+
+
 body {
-    font-size:60%;
+    font-size:100%;
     font-family:"Times New Roman",serif;
     text-align:left;
 }
@@ -7,8 +20,9 @@ em {
     font-family:"Times New Roman",cursive;
    
 }
-h4 {margin-left:100px;
-	margin-top:580px;
+h4 {font-size:70%;
+    margin-left:0px;
+	margin-top:30px;
 }
 
 em {list-style:none;
@@ -16,7 +30,11 @@ em {list-style:none;
     margin-left:100px;
 }
 
-li { list-style:none;}
+li { font-size:60%;
+    font-family:"Times New Roman",serif;
+    list-style:none;
+    text-align-last:left;
+}
 
 
     
